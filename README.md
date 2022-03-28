@@ -19,4 +19,4 @@ Initial 3D prints done. Time for a first fit and tune
 2 x Separator.3mf - used to join the wire and keep the gap
 1 x Dipole Centre.3mf - acts as the feedpoint to the coax
 
-![Parts images]('images/Moxon parts view.png')
+![Parts images]("images/Moxon parts view.png")
