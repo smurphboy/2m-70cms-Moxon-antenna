@@ -14,9 +14,9 @@ Initial 3D prints done. Time for a first fit and tune
 
 ## Files
 
-1 x Centre Holder.3mf - holds the main spars and will attach to a selfie stick in due course
-4 x Corner Holder.3mf - holds the wire taught at the corners, attached my a bamboo skewer to the Centre Holder
-2 x Separator.3mf - used to join the wire and keep the gap
-1 x Dipole Centre.3mf - acts as the feedpoint to the coax
+* 1 x Centre Holder.3mf - holds the main spars and will attach to a selfie stick in due course
+* 4 x Corner Holder.3mf - holds the wire taught at the corners, attached my a bamboo skewer to the Centre Holder
+* 2 x Separator.3mf - used to join the wire and keep the gap
+* 1 x Dipole Centre.3mf - acts as the feedpoint to the coax
 
 ![Parts images](images/Moxon%20parts%20view.png)
